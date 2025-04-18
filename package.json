@@ -1,5 +1,5 @@
 {
-  "name": "asitha-baliyes-new",
+  "name": "@genuxofficial/nova",
   "version": "7.0.0",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/asithamd173/ASITHA-MD-BALIYES",
+  "homepage": "https://github.com/genux-official/nova-baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/asithamd173/ASITHA-MD-BALIYES.git"
+    "url": "git+ssh://git@github.com/genux-official/nova-baileys.git"
   },
   "license": "MIT",
-  "author": "Mr Asitha",
+  "author": "Genux Official",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
